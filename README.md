@@ -1,6 +1,7 @@
 # Supplemental scripts for uORFdb.
-This repository contains supplemental scripts for the publication of uORFdb (https://www.bioinformatics.uni-muenster.de/tools/uorfdb).
+This repository contains supplemental scripts for the [publication of uORFdb](https://doi.org/10.1093/nar/gkac899).
 Instructions on how to run the scripts can be found in the Supplementary Methods.
+The uORFdb database is available at https://www.bioinformatics.uni-muenster.de/tools/uorfdb.
 
 ## Contents
 - ### uORF detection
