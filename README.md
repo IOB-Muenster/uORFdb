@@ -53,4 +53,4 @@ The uORFdb database is available at https://www.bioinformatics.uni-muenster.de/t
 	- genomebrowser.pl	
 
 ## Cite
-If you use these scripts in your research, please cite this repository.
+If you use these scripts in your research, please cite the [uORFdb publication](https://doi.org/10.1093/nar/gkac899).
